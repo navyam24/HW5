@@ -22,4 +22,4 @@ tnine.o: tnine.c trienode.h
 
 # shows command to remove object files and clean proj directory
 clean:
-	rm -f .o t9~
+	rm -f *.o t9 *~
